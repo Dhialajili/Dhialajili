@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhialajili
-- 👀 I’m interested in Genshin Impact
+- 👀 I’m interested in Symfony 5 and React
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Begginer's Projects
 - 📫 How to reach me dhiaelajili4@gmail.com
