@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dhialajili
-- 👀 I worked with Symfony
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate on Begginer's Projects
-- 📫 How to reach me dhiaelajili4@gmail.com
+I’m @Dhialajili
+Frontend Developer & UI/UX Designer.
+I value simple content structure, clean design patterns, and thoughtful interactions.
+React, Symfony, ASP.NET
+How to reach me dhiaelajili4@gmail.com
